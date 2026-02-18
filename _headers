@@ -1,0 +1,7 @@
+https://ao-mini.sudden-epiphany2.workers.dev/*
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Embedder-Policy: credentialless
+  Cross-Origin-Opener-Policy: same-origin
+
+https://ao-mini.sudden-epiphany2.workers.dev/assets/assets/translations/fa.json
+  Cache-Control: no-cache
