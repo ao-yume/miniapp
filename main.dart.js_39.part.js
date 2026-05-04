@@ -635,7 +635,7 @@ return new B.br(v,550,B.bx(u,C.m,C.p,C.n,v),v)}}
 A.va.prototype={
 G(d){var x,w,v,u=null,t=this.c,s=t.c
 if(C.c.t(J.N(s),"https"))s.toString
-else s="https://s3.miniapp.lol/"+B.i(s)
+else s="https://s3.aoyu.me/"+B.i(s)
 s=B.iD(0,E.lL(s,new A.aoL(),C.ek,u,u,u),0)
 x=B.iD(0,B.bz(u,u,C.o,u,u,new B.c8(u,u,u,u,u,new Y.kJ(C.bt,C.dH,C.cf,B.b([B.aT(255,C.ad.H()>>>16&255,C.ad.H()>>>8&255,C.ad.H()&255),B.aT(0,C.ad.H()>>>16&255,C.ad.H()>>>8&255,C.ad.H()&255)],y.O),u,u),C.Y),u,u,u,u,u,u,1/0),215)
 w=t.f
@@ -868,7 +868,7 @@ q.toString
 x=q
 q=r
 r=x}else{r=u[e]
-q="https://s3.miniapp.lol/"+B.i(r.to)
+q="https://s3.aoyu.me/"+B.i(r.to)
 x=q
 q=r
 r=x}else{q=r.ch
@@ -970,4 +970,4 @@ D.ai8=new E.iJ(D.Vw,null)
 D.YZ=new A.ZX(null)
 D.aia=new E.iJ(D.YZ,null)
 D.aph=B.aZ("nY")})()};
-(a=>{a["zA0lshyzeNbvjPO01Wn1jXbynEE="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["zyTtufC6XRHkFs9KWDnLHUr93KI="]=a.current})($__dart_deferred_initializers__);

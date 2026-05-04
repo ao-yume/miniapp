@@ -24658,7 +24658,7 @@ _.xr=c5
 _.y1=c6
 _.y2=c7
 _.b_=c8},
-b2C(a){var s="dic_image_url",r=A.bT(J.N(a.h(0,"anime_id")),null),q=a.h(0,"dic_title"),p=B.c.t(J.N(a.h(0,s)),"https")?a.h(0,s):"https://s3.miniapp.lol/"+A.i(a.h(0,s)),o=a.h(0,"dic_kayfet"),n=J.N(a.h(0,"dic_score")),m=J.N(a.h(0,"episodes_en")),l=J.N(a.h(0,"dic_types"))
+b2C(a){var s="dic_image_url",r=A.bT(J.N(a.h(0,"anime_id")),null),q=a.h(0,"dic_title"),p=B.c.t(J.N(a.h(0,s)),"https")?a.h(0,s):"https://s3.aoyu.me/"+A.i(a.h(0,s)),o=a.h(0,"dic_kayfet"),n=J.N(a.h(0,"dic_score")),m=J.N(a.h(0,"episodes_en")),l=J.N(a.h(0,"dic_types"))
 J.N(a.h(0,"dic_status"))
 return new A.ch(r,q,p,o,n,m,l)},
 ch:function ch(a,b,c,d,e,f,g){var _=this
@@ -82527,7 +82527,7 @@ $1(a){var s,r,q,p,o,n,m=a.k4
 if(m==null)m="Unknown"
 s=a.b.d9(0)
 r=a.to
-if(r!=null)r=B.c.t(r,"https")?r:"https://s3.miniapp.lol/"+r
+if(r!=null)r=B.c.t(r,"https")?r:"https://s3.aoyu.me/"+r
 else{r=a.ch
 r.toString}q=a.at
 if(q==null)q="Unknown"
@@ -82547,7 +82547,7 @@ $1(a){var s,r,q,p,o,n,m=a.k4
 if(m==null)m="Unknown"
 s=a.b.d9(0)
 r=a.to
-if(r!=null)r=B.c.t(r,"https")?r:"https://s3.miniapp.lol/"+r
+if(r!=null)r=B.c.t(r,"https")?r:"https://s3.aoyu.me/"+r
 else{r=a.ch
 r.toString}q=a.at
 if(q==null)q="Unknown"
@@ -82567,7 +82567,7 @@ $1(a){var s,r,q,p,o,n,m=a.k4
 if(m==null)m="Unknown"
 s=a.b.d9(0)
 r=a.to
-if(r!=null)r=B.c.t(r,"https")?r:"https://s3.miniapp.lol/"+r
+if(r!=null)r=B.c.t(r,"https")?r:"https://s3.aoyu.me/"+r
 else{r=a.ch
 r.toString}q=a.at
 if(q==null)q="Unknown"
@@ -92335,7 +92335,7 @@ if(s==null){throw"DeferredLoading state error: code with hash '"+a+"' was not lo
 v.deferredInitialized[a]=true},
 deferredLibraryParts:{_i1:[0,1,2,3],_i2:[0,1,2,4],_i3:[],_i4:[5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],_i5:[5,27,7,28,29,9,10,11,12,30,31,16,32,33,21,22,34,35,36,37],_i6:[5,27,6,38,29,12,39,40,1,41,20,42,43,44,45,36,25,46],_i7:[5,27,6,7,38,28,29,8,10,11,12,47,39,40,30,31,14,15,16,48,49,41,33,18,19,50,45,35,24,51],_i8:[0,1,2,52],_i9:[5,27,6,7,38,28,8,9,11,47,39,40,31,13,15,53,49,32,17,22,54,55,44,56],_i10:[5,27,6,7,38,28,29,8,9,10,47,40,30,13,14,53,48,49,19,57,55,43,58],_i11:[5,27,6,7,38,28,29,8,9,10,11,12,47,39,30,31,13,14,15,16,0,53,48,41,32,33,17,18,20,21,57,54,50,42,34,23,59]},
 deferredPartUris:["main.dart.js_4.part.js","main.dart.js_3.part.js","main.dart.js_2.part.js","main.dart.js_38.part.js","main.dart.js_1.part.js","main.dart.js_7.part.js","main.dart.js_28.part.js","main.dart.js_9.part.js","main.dart.js_41.part.js","main.dart.js_21.part.js","main.dart.js_12.part.js","main.dart.js_19.part.js","main.dart.js_15.part.js","main.dart.js_48.part.js","main.dart.js_43.part.js","main.dart.js_46.part.js","main.dart.js_20.part.js","main.dart.js_40.part.js","main.dart.js_44.part.js","main.dart.js_45.part.js","main.dart.js_35.part.js","main.dart.js_24.part.js","main.dart.js_22.part.js","main.dart.js_42.part.js","main.dart.js_49.part.js","main.dart.js_33.part.js","main.dart.js_39.part.js","main.dart.js_18.part.js","main.dart.js_17.part.js","main.dart.js_16.part.js","main.dart.js_8.part.js","main.dart.js_14.part.js","main.dart.js_13.part.js","main.dart.js_11.part.js","main.dart.js_10.part.js","main.dart.js_23.part.js","main.dart.js_6.part.js","main.dart.js_5.part.js","main.dart.js_32.part.js","main.dart.js_30.part.js","main.dart.js_36.part.js","main.dart.js_26.part.js","main.dart.js_27.part.js","main.dart.js_37.part.js","main.dart.js_29.part.js","main.dart.js_31.part.js","main.dart.js_25.part.js","main.dart.js_52.part.js","main.dart.js_54.part.js","main.dart.js_60.part.js","main.dart.js_51.part.js","main.dart.js_62.part.js","main.dart.js_57.part.js","main.dart.js_53.part.js","main.dart.js_55.part.js","main.dart.js_59.part.js","main.dart.js_61.part.js","main.dart.js_56.part.js","main.dart.js_58.part.js","main.dart.js_50.part.js"],
-deferredPartHashes:["pyOJVOZMKtIkJ9i/L17RakbmMd0=","y/B+dlg0MeJ8uojtmkiYLLsRIiQ=","FcClHktD12E93pzFgmKkTRmj2ng=","J0ocjcWI8RTQR54mEbxELuE10vs=","qRygeRdZjBNvPFEhkPmNMSs3O+M=","9h61K++r9X0K2pBHCo3dh9RxSW0=","kEempYVEWTrLzPDBUIyvO/nC9VQ=","CLo9D+682es0wP2MLQIxEDdfDx8=","rcVUPxMj9BvISw4cppyr5+58L1Y=","RgxFcatyZFLVXs1HaDnJx+B50aU=","ctCsjcgnNRPQ68FkCQTGkljOeq0=","rGwcTMLn3gd5OlS3bg7umNl+T48=","c/F8RYG4Vhhi/Zk8GvX7Zs9R7/8=","ZIy5dzLWm04oMBJFGVICdKfTNT0=","YFHBCUIxXrKm+ThUQ2OL+1SLL7g=","BpVfp4hrYhdLngIzEsi/nv2R8O8=","hGR6p0avzrGG6ljS7PIbdogqkyQ=","P/bW5xIVrnLZDtQmN5E68U7gXL0=","xo40K4rks9NO5zwuUL0I6EgQ1wA=","ndm+jTrmXMkavw5VNbpimvtr4uw=","FRVrbKffB1Q3H5G/8QogSFwfSm8=","T6Y/Doh3U2y1c+3scZhuB5WMd4w=","s66bK4ghQClkHHj3T6RlQ9lkZNM=","FSt1FOmv8RMrQUsrXvwsVUCXNjg=","IF4+7oO299mEzBeQPGLM0/G27Fw=","HUuPs87mxs/FdTmwjDi1FI6NFkA=","zA0lshyzeNbvjPO01Wn1jXbynEE=","yGEGfMftZA9TLmGQtn2VvR76xHs=","ziENXJlsiOPY6rz7orEflbjOxb8=","FrjMISL6k8RJRFbKiJuUuFPsqZ8=","dGicX7FaQrxI4Y2iYNWsqIdJ6q4=","ExluE42h9evE50aQQIYzbqhPL+M=","aDv0huP+oIyvh0uWX1ljAZIQLc0=","eoDXSmHP4UIKeEwc3U+tpMIzpHc=","MBTBWrMPP00YYCgiGcO1EeFLEcE=","HSJac8A+ZgKmpdCQVunv0QRyCg8=","LRwCggE4Zc11e7nMgfQFVSD09Ak=","EihXZOuOflgWOyaUVt1xmSkYNB8=","Q4Wk/4tzh71VLNquRxEPURbIzXw=","1JlkIp9jEEgH23RckN/O3IyLyrE=","cKiNlpPnd7dKmo3QinMv8rGzjWs=","gJTaCMhWh4xHRn5RRBhIksNSw2w=","YNIlESo2marE7C0qfru4QkDU4SI=","Cg8QzE2a9/yabiOMgTMOLmESmK8=","XoZ9OFoCYjht13Mhl0nr1qRT5AQ=","Zq5yn6BRW20yDrmB0Hphoa+tlrU=","BGHPPYfDdOp4tuPE634Uh0OjfTA=","kq8rHWOaNPIHOaM3Y5iz2nCFw14=","x7OaPFi3TNgZKInGuU3aHKjevBU=","+IVp2CyQ3EWrY5zapgzqHDh/wHM=","lgA5Z3KD6NjLizdf2ODexksypUY=","TSHkuvI7L1/UH90Boi2tDviHDcY=","wk7US02QEJbondirXZmu3L3hdGI=","fFNac9+MCAYwaJIdBDkz5wjuGwQ=","X5x9k/ki5fHTjWV8Sec7BIEs/bs=","G8mU9mZ5XFGhFPlLWL6z4mttIxQ=","Xqmw4JmjTw4mnvT3YmQgOw6Ud8w=","VD5wPSzGHL+Ddb8lWF2LEpVgkVE=","cNIKsCleC6/ttPuMO0PfTdWjv2c=","rXe1I/roIboUBIX7L6VFv6YR6Ec="],
+deferredPartHashes:["pyOJVOZMKtIkJ9i/L17RakbmMd0=","y/B+dlg0MeJ8uojtmkiYLLsRIiQ=","FcClHktD12E93pzFgmKkTRmj2ng=","J0ocjcWI8RTQR54mEbxELuE10vs=","qRygeRdZjBNvPFEhkPmNMSs3O+M=","9h61K++r9X0K2pBHCo3dh9RxSW0=","kEempYVEWTrLzPDBUIyvO/nC9VQ=","CLo9D+682es0wP2MLQIxEDdfDx8=","rcVUPxMj9BvISw4cppyr5+58L1Y=","RgxFcatyZFLVXs1HaDnJx+B50aU=","ctCsjcgnNRPQ68FkCQTGkljOeq0=","rGwcTMLn3gd5OlS3bg7umNl+T48=","c/F8RYG4Vhhi/Zk8GvX7Zs9R7/8=","ZIy5dzLWm04oMBJFGVICdKfTNT0=","YFHBCUIxXrKm+ThUQ2OL+1SLL7g=","BpVfp4hrYhdLngIzEsi/nv2R8O8=","hGR6p0avzrGG6ljS7PIbdogqkyQ=","P/bW5xIVrnLZDtQmN5E68U7gXL0=","xo40K4rks9NO5zwuUL0I6EgQ1wA=","ndm+jTrmXMkavw5VNbpimvtr4uw=","FRVrbKffB1Q3H5G/8QogSFwfSm8=","T6Y/Doh3U2y1c+3scZhuB5WMd4w=","s66bK4ghQClkHHj3T6RlQ9lkZNM=","FSt1FOmv8RMrQUsrXvwsVUCXNjg=","IF4+7oO299mEzBeQPGLM0/G27Fw=","HUuPs87mxs/FdTmwjDi1FI6NFkA=","zyTtufC6XRHkFs9KWDnLHUr93KI=","yGEGfMftZA9TLmGQtn2VvR76xHs=","ziENXJlsiOPY6rz7orEflbjOxb8=","FrjMISL6k8RJRFbKiJuUuFPsqZ8=","dGicX7FaQrxI4Y2iYNWsqIdJ6q4=","ExluE42h9evE50aQQIYzbqhPL+M=","aDv0huP+oIyvh0uWX1ljAZIQLc0=","eoDXSmHP4UIKeEwc3U+tpMIzpHc=","MBTBWrMPP00YYCgiGcO1EeFLEcE=","HSJac8A+ZgKmpdCQVunv0QRyCg8=","LRwCggE4Zc11e7nMgfQFVSD09Ak=","EihXZOuOflgWOyaUVt1xmSkYNB8=","Q4Wk/4tzh71VLNquRxEPURbIzXw=","1JlkIp9jEEgH23RckN/O3IyLyrE=","cKiNlpPnd7dKmo3QinMv8rGzjWs=","gJTaCMhWh4xHRn5RRBhIksNSw2w=","YNIlESo2marE7C0qfru4QkDU4SI=","Cg8QzE2a9/yabiOMgTMOLmESmK8=","XoZ9OFoCYjht13Mhl0nr1qRT5AQ=","Zq5yn6BRW20yDrmB0Hphoa+tlrU=","BGHPPYfDdOp4tuPE634Uh0OjfTA=","kq8rHWOaNPIHOaM3Y5iz2nCFw14=","x7OaPFi3TNgZKInGuU3aHKjevBU=","+IVp2CyQ3EWrY5zapgzqHDh/wHM=","lgA5Z3KD6NjLizdf2ODexksypUY=","UyUPReICW/l5ldgKv0EBLngUM64=","wk7US02QEJbondirXZmu3L3hdGI=","fFNac9+MCAYwaJIdBDkz5wjuGwQ=","X5x9k/ki5fHTjWV8Sec7BIEs/bs=","G8mU9mZ5XFGhFPlLWL6z4mttIxQ=","Xqmw4JmjTw4mnvT3YmQgOw6Ud8w=","VD5wPSzGHL+Ddb8lWF2LEpVgkVE=","cNIKsCleC6/ttPuMO0PfTdWjv2c=","YQcGLv2mkygrhBDhhfzSUxmP3QQ="],
 typeUniverse:{eC:new Map(),tR:{},eT:{},tPV:{},sEA:[]},
 mangledGlobalNames:{l:"int",K:"double",dQ:"num",f:"String",z:"bool",aO:"Null",G:"List",D:"Object",ak:"Map",b8:"JSObject"},
 mangledNames:{},
