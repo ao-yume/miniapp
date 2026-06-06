@@ -24464,7 +24464,7 @@ m=g}else m=g
 if(m==null){g=b.gID()
 m=g==null?null:g.c}try{i=b.gaMI()
 if(i!=null){g=i
-i="https://telp.miniapp.lol/"+A.dJ(g,"https://","")}}catch(e){}g=A.r(t.N,t.z)
+i="https://telp.hayai.buzz/"+A.dJ(g,"https://","")}}catch(e){}g=A.r(t.N,t.z)
 if(m!=null)g.l(0,"name",m)
 if(i!=null)g.l(0,"avatar",i)
 g.l(0,"telegram_id",j)
