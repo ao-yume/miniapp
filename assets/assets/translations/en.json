@@ -14,5 +14,11 @@
  "categories":"Categories",
  "anime":"Anime",
  "serie":"Series",
- "movie":"Movie"
+ "movie":"Movie",
+ "advancedSearch": "Advanced Search",
+ "advancedSearchSubtitle": "Find your favorite anime by season and year",
+ "releaseYear": "Release Year",
+ "seasonTitle": "Season",
+ "country": "Country",
+ "status": "Status"
 }
