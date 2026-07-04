@@ -426,6 +426,7 @@ class CompiledApp {
       _1297: x0 => x0.back(),
       _1304: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
       _1305: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
+      _1313: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
       _1314: x0 => x0.decode(),
       _1315: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
       _1316: (x0,x1,x2) => x0.setRequestHeader(x1,x2),
