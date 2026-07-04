@@ -19,6 +19,18 @@
  "advancedSearchSubtitle": "Find your favorite anime by season and year",
  "releaseYear": "Release Year",
  "seasonTitle": "Season",
- "country": "Country",
- "status": "Status"
+  "country": "Country",
+  "status": "Status",
+  "subscription_status": "Subscription Status",
+  "days_remaining": "{} days remaining",
+  "renew_subscription": "Renew Subscription",
+  "vip_account": "Supporter Account (VIP)",
+  "dashboard": "Dashboard",
+  "anime_list": "Anime List",
+  "anime_count": "Anime Count",
+  "watch_days": "Days Watching",
+  "average_score": "Average Score",
+  "import_mal": "Import from MyAnimeList",
+    "import_anilist": "Import from AniList",
+    "retry": "Retry"
 }

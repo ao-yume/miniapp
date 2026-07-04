@@ -38,6 +38,7 @@
     "not_uploaded": "هنوز هیچ قسمتی برای این انیمه آپلود نشده است",
     "empty_result": "نتیجه‌ای یافت نشد",
     "error_result": "خطا در ارتباط با سرور",
+    "retry": "تلاش مجدد",
     "empty_comment": "هنوز نظری برای این انیمه ثبت نشده است",
     "search_text": "نام انیمه‌ مورد نظر را بصورت انگلیسی یا فارسی وارد کنید و دکمه ثبت را فشار دهید.",
     "singup_date": "تاریخ عضویت:",
@@ -105,5 +106,16 @@
     "releaseYear": "سال انتشار",
     "seasonTitle": "فصل",
     "country": "کشور",
-    "status": "وضعیت"
+    "status": "وضعیت",
+    "subscription_status": "وضعیت اشتراک",
+    "days_remaining": "{} روز باقی‌مانده",
+    "renew_subscription": "تمدید اشتراک",
+    "vip_account": "حساب حامی (VIP)",
+    "dashboard": "داشبورد",
+    "anime_list": "لیست انیمه‌ها",
+    "anime_count": "تعداد انیمه‌ها",
+    "watch_days": "روز تماشای انیمه",
+    "average_score": "میانگین نمرات",
+    "import_mal": "وارد کردن لیست از MyAnimeList",
+    "import_anilist": "وارد کردن لیست از AniList"
 }
