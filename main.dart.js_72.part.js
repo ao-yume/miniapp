@@ -1,16 +1,13 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={G9:function G9(d,e,f,g,h,i,j){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h
-_.f=i
-_.r=j}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
+bqX(){return new A.vy(null)},
+vy:function vy(d){this.a=d}}
 B=c[0]
-A=a.updateHolder(c[54],A)
-A.G9.prototype={}
+C=c[76]
+A=a.updateHolder(c[4],A)
+A.vy.prototype={
+F(d){return C.n7}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.G9,B.di)})()
-B.bW(b.typeUniverse,JSON.parse('{"G9":{"di":["~"]}}'))};
-(a=>{a["50QhGHUArDjSxLHQaVKjKE4ucPo="]=a.current})($__dart_deferred_initializers__);
+y(A.vy,B.a_)})()
+B.bY(b.typeUniverse,JSON.parse('{"vy":{"a_":[],"c":[]}}'))};
+(a=>{a["H1HnQxrGitDDwjTcs5TFouQLAVY="]=a.current})($__dart_deferred_initializers__);

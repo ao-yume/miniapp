@@ -1,5 +1,5 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={ZM:function ZM(d,e,f,g,h,i,j){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={a__:function a__(d,e,f,g,h,i,j){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -11,9 +11,9 @@ B=c[0]
 C=c[2]
 A=a.updateHolder(c[49],A)
 D=c[124]
-A.ZM.prototype={}
+A.a__.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.ZM,B.di)})()
-B.bW(b.typeUniverse,JSON.parse('{"ZM":{"di":["~"]}}'));(function constants(){D.hX=new A.ZM("DonationRoute",null,C.aB,C.aB,null,"",null)
-D.e1=new B.aq(12,12,12,12)})()};
-(a=>{a["ozB7rkpajzouh9ofM1KS7LgodV0="]=a.current})($__dart_deferred_initializers__);
+y(A.a__,B.di)})()
+B.bY(b.typeUniverse,JSON.parse('{"a__":{"di":["~"]}}'));(function constants(){D.i_=new A.a__("DonationRoute",null,C.aC,C.aC,null,"",null)
+D.e3=new B.an(12,12,12,12)})()};
+(a=>{a["MeFuFZX15WlR1Gpe1DeevzuXYDw="]=a.current})($__dart_deferred_initializers__);
