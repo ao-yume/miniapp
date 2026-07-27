@@ -56,5 +56,17 @@
   "download_limit_vip_card": "Upgrade to VIP for unlimited downloads and early access.",
   "donate": "Support & Upgrade",
   "not_now": "Not now",
-  "recharge_caption": "until quota recharge"
+  "recharge_caption": "until quota recharge",
+  "comment_cooldown": "Please wait 2 minutes before posting another comment.",
+  "comment_opinion_length": "Comments must be between 10 and 2000 characters.",
+  "comment_reply_length": "Replies must be between 1 and 1500 characters.",
+  "comment_post_rate_limit": "Too many comments in the last hour. Try again later.",
+  "comment_reply_rate_limit": "Too many replies in the last hour. Try again later.",
+  "comment_reply_depth": "You cannot reply deeper in this thread.",
+  "comment_reply_blocked": "You cannot reply to this user.",
+  "comment_root_locked": "This thread is locked.",
+  "comment_root_not_published": "You cannot reply until this comment is published.",
+  "comment_control_characters": "The comment contains invalid characters.",
+  "comment_auth_required": "You must be signed in to comment.",
+  "comment_send_failed": "Failed to send comment. Please try again."
 }

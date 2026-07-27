@@ -1,8 +1,8 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
 a4t(d){return new A.a4s("QueryRoute",null,C.aC,C.aC,d,"",null)},
-aHI(d,e,f){var x=B.a7(["query",d,"type",f,"queryFa",e],y.g,y.b)
-return new A.a5z("ResultRoute",new B.qb(null,d,f,e),C.aC,x,null,"",null)},
+aHK(d,e,f){var x=B.a7(["query",d,"type",f,"queryFa",e],y.g,y.b)
+return new A.a5z("ResultRoute",new B.qc(null,d,f,e),C.aC,x,null,"",null)},
 a4s:function a4s(d,e,f,g,h,i,j){var _=this
 _.a=d
 _.b=e
@@ -26,6 +26,6 @@ A.a4s.prototype={}
 A.a5z.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
 x(B.di,[A.a4s,A.a5z])})()
-B.bY(b.typeUniverse,JSON.parse('{"a4s":{"di":["~"]},"a5z":{"di":["qb"]}}'))
+B.bY(b.typeUniverse,JSON.parse('{"a4s":{"di":["~"]},"a5z":{"di":["qc"]}}'))
 var y={g:B.F("f"),b:B.F("@")}};
-(a=>{a["R0D9bnuQEjBEoRp3rGDuqlM4Lvw="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["pkjVRIgppI6YKHm8BtGxPZ8n3ps="]=a.current})($__dart_deferred_initializers__);
