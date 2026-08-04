@@ -1,5 +1,5 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={Z7:function Z7(d,e,f,g,h,i,j){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={Z6:function Z6(d,e,f,g,h,i,j){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -11,9 +11,9 @@ B=c[0]
 C=c[2]
 A=a.updateHolder(c[49],A)
 D=c[123]
-A.Z7.prototype={}
+A.Z6.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.Z7,B.df)})()
-B.bV(b.typeUniverse,JSON.parse('{"Z7":{"df":["~"]}}'));(function constants(){D.hW=new A.Z7("DonationRoute",null,C.aA,C.aA,null,"",null)
+y(A.Z6,B.de)})()
+B.bV(b.typeUniverse,JSON.parse('{"Z6":{"de":["~"]}}'));(function constants(){D.hW=new A.Z6("DonationRoute",null,C.aA,C.aA,null,"",null)
 D.dX=new B.ak(12,12,12,12)})()};
-(a=>{a["Jurqx+NUYHV9qab4Oir89k7XjTw="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ZraMVlsHdVnV2mJm24ZPPLXtLeM="]=a.current})($__dart_deferred_initializers__);

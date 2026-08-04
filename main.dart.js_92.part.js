@@ -1,20 +1,20 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,B={n9:function n9(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,B={na:function na(d,e){this.a=d
 this.b=e}},A
 C=c[0]
 B=a.updateHolder(c[41],B)
 A=c[143]
-B.n9.prototype={
+B.na.prototype={
 K(){return"AnimeTypes."+this.b}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.n9,C.eB)})();(function constants(){var y=a.makeConstList
-A.r6=new B.n9(0,"notSpecified")
-A.r7=new B.n9(3,"movies")
-A.v0=new C.bK(983508,"MaterialIcons",!1)
-A.Nw=new B.n9(1,"series")
-A.Nx=new B.n9(2,"ova")
-A.Ny=new B.n9(4,"special")
-A.Nz=new B.n9(5,"ona")
-A.NA=new B.n9(6,"music")
-A.za=y([A.r6,A.Nw,A.Nx,A.r7,A.Ny,A.Nz,A.NA],C.E("n<n9>"))})()};
-(a=>{a["r2kdxQih5Z+nfrGdpdfrqf8obco="]=a.current})($__dart_deferred_initializers__);
+y(B.na,C.eB)})();(function constants(){var y=a.makeConstList
+A.r7=new B.na(0,"notSpecified")
+A.r8=new B.na(3,"movies")
+A.v1=new C.bK(983508,"MaterialIcons",!1)
+A.Nv=new B.na(1,"series")
+A.Nw=new B.na(2,"ova")
+A.Nx=new B.na(4,"special")
+A.Ny=new B.na(5,"ona")
+A.Nz=new B.na(6,"music")
+A.zb=y([A.r7,A.Nv,A.Nw,A.r8,A.Nx,A.Ny,A.Nz],C.E("n<na>"))})()};
+(a=>{a["4CqtRpp0UICTEa7/brMQh9bcwaU="]=a.current})($__dart_deferred_initializers__);
