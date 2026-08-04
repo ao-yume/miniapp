@@ -1,12 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={a3t:function a3t(d){this.a=d}},C
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A,C
 B=c[0]
-A=a.updateHolder(c[33],A)
-C=c[102]
-A.a3t.prototype={
-mV(d){return new A.a3t(this.lT(d))},
-gPJ(){return!1},
-glQ(){return!1}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.a3t,B.mD)})();(function constants(){C.h3=new A.a3t(null)})()};
-(a=>{a["l2fxl8TGIPz4uYLIzmx3bA1A1mk="]=a.current})($__dart_deferred_initializers__);
+A=c[2]
+C=c[109]
+var z=a.updateTypes([]);(function constants(){C.ql=new B.F(!0,A.j,null,"Modam",null,null,24,A.bR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["zE9z+2b8uEDY39jFVWQ1j29JaDw="]=a.current})($__dart_deferred_initializers__);
