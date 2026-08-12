@@ -1,8 +1,10 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A,C
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A,C={
+bce(d){return new E.G8("AnimeRoute",null,A.aB,A.aB,d,"",null)}},D,E
 B=c[0]
-A=c[94]
-C=c[78]
-var z=a.updateTypes([]);(function constants(){A.Za=new B.bK(983464,"MaterialIcons",!0)
-A.v5=new B.bT(A.Za,20,C.Q,null,null)})()};
-(a=>{a["cst4VqNOwFZ6nZIEKp1gFVytnv0="]=a.current})($__dart_deferred_initializers__);
+A=c[2]
+C=a.updateHolder(c[40],C)
+D=c[136]
+E=c[54]
+var z=a.updateTypes([]);(function constants(){D.nT=new B.ak(0,12,0,12)})()};
+(a=>{a["sC3qohg99gZgtJKQw40XkjhJULA="]=a.current})($__dart_deferred_initializers__);
