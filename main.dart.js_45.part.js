@@ -1,9 +1,14 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-a41(d){return new A.a40("QueryRoute",null,C.aB,C.aB,d,"",null)},
-aGT(d,e,f){var x=B.a7(["query",d,"type",f,"queryFa",e],y.g,y.b)
-return new A.a57("ResultRoute",new B.qk(null,d,f,e),C.aB,x,null,"",null)},
-a40:function a40(d,e,f,g,h,i,j){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={Wx:function Wx(d,e){this.a=d
+this.b=e},ano:function ano(d,e,f,g,h){var _=this
+_.b=d
+_.c=e
+_.d=f
+_.e=g
+_.a=h},
+baR(d){var x=A.a6(["userId",d],y.g,y.b)
+return new B.a4D("ProfileRoute",new A.ql(null,d),C.am,x,null,"",null)},
+a4D:function a4D(d,e,f,g,h,i,j){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -11,21 +16,31 @@ _.d=g
 _.e=h
 _.f=i
 _.r=j},
-a57:function a57(d,e,f,g,h,i,j){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h
-_.f=i
-_.r=j}}
-B=c[0]
+CR(d,e,f,g){var x=0,w=A.v(y.f)
+var $async$CR=A.w(function(h,i){if(h===1)return A.r(i,w)
+for(;;)switch(x){case 0:x=2
+return A.o(C.fr.fH(new B.ano(d.a,e,f,g,"announce").acu()),$async$CR)
+case 2:return A.t(null,w)}})
+return A.u($async$CR,w)}},D
+A=c[0]
 C=c[2]
-A=a.updateHolder(c[37],A)
-A.a40.prototype={}
-A.a57.prototype={}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
-x(B.de,[A.a40,A.a57])})()
-B.bW(b.typeUniverse,JSON.parse('{"a40":{"de":["~"]},"a57":{"de":["qk"]}}'))
-var y={g:B.G("f"),b:B.G("@")}};
-(a=>{a["Ify/VgbKPmuVtU2bHXUjSyLjAJ4="]=a.current})($__dart_deferred_initializers__);
+B=a.updateHolder(c[27],B)
+D=c[131]
+B.Wx.prototype={
+K(){return"Assertiveness."+this.b}}
+B.ano.prototype={
+ur(){var x,w=this,v=A.x(y.g,y.b)
+v.l(0,"viewId",w.b)
+v.l(0,"message",w.c)
+v.l(0,"textDirection",w.d.a)
+x=w.e
+if(x!==D.n6)v.l(0,"assertiveness",x.a)
+return v}}
+B.a4D.prototype={}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(B.Wx,A.eI)
+x(B.ano,A.a6y)
+x(B.a4D,A.dh)})()
+A.bX(b.typeUniverse,JSON.parse('{"a4D":{"dh":["ql"]}}'))
+var y={g:A.G("f"),b:A.G("@"),f:A.G("~")};(function constants(){D.n6=new B.Wx(0,"polite")})()};
+(a=>{a["Ln9zmY3EEbwYNyJ0ZRfSmavLmOc="]=a.current})($__dart_deferred_initializers__);
