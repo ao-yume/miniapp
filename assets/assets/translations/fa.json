@@ -161,5 +161,19 @@
     "comment_root_not_published": "هنوز امکان پاسخ به این نظر وجود ندارد.",
     "comment_control_characters": "متن نظر شامل کاراکترهای غیرمجاز است.",
     "comment_auth_required": "برای ارسال نظر باید وارد حساب کاربری شوید.",
-    "comment_send_failed": "ارسال نظر با خطا مواجه شد. دوباره تلاش کنید."
+    "comment_send_failed": "ارسال نظر با خطا مواجه شد. دوباره تلاش کنید.",
+    "batch_select": "انتخاب",
+    "batch_cancel_selection": "لغو انتخاب",
+    "batch_selected_one": "{} قسمت انتخاب شده",
+    "batch_selected_many": "{} قسمت انتخاب شده",
+    "batch_get_link": "دریافت لینک",
+    "batch_free_supporter": "دریافت رایگان — حامی",
+    "batch_cap_title": "سقف انتخاب",
+    "batch_cap_hint": "حداکثر ۱۰ قسمت در هر لینک",
+    "batch_cost_coins": "هزینه: {} سکه",
+    "batch_unlimited_supporter": "حامی — رایگان",
+    "batch_insufficient_line": "{} قسمت {} سکه لازم دارد؛ {} سکه دارید",
+    "deeplink_countdown_caption": "اعتبار لینک",
+    "deeplink_expired": "منقضی شد",
+    "episode_unavailable_named": "قسمت {} در دسترس نیست. لطفاً بعداً دوباره تلاش کنید."
 }

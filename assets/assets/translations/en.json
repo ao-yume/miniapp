@@ -79,5 +79,19 @@
   "comment_root_not_published": "You cannot reply until this comment is published.",
   "comment_control_characters": "The comment contains invalid characters.",
   "comment_auth_required": "You must be signed in to comment.",
-  "comment_send_failed": "Failed to send comment. Please try again."
+  "comment_send_failed": "Failed to send comment. Please try again.",
+  "batch_select": "Select",
+  "batch_cancel_selection": "Deselect",
+  "batch_selected_one": "1 episode selected",
+  "batch_selected_many": "{} episodes selected",
+  "batch_get_link": "Get link",
+  "batch_free_supporter": "Free — Supporter",
+  "batch_cap_title": "Selection limit",
+  "batch_cap_hint": "Up to 10 episodes per link",
+  "batch_cost_coins": "Cost: {} coins",
+  "batch_unlimited_supporter": "Supporter — Free",
+  "batch_insufficient_line": "{} episodes need {} coins; you have {}",
+  "deeplink_countdown_caption": "Link validity",
+  "deeplink_expired": "Expired",
+  "episode_unavailable_named": "Episode {} is unavailable. Please try again later."
 }
