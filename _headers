@@ -1,42 +1,7 @@
-# Cloudflare Workers static-assets header rules. Vite copies public/ into dist/ verbatim;
-# Workers parses `_headers` from the static-asset directory root and applies the matching
-# block(s) to asset responses (https://developers.cloudflare.com/workers/static-assets/headers/).
-# GitHub Pages ignores this file.
-#
-# Default without this file: `Cache-Control: public, max-age=0, must-revalidate`.
-#
-# The router is PATH-based, so /miniapp/login and /miniapp/anime/single/42 are client-side
-# routes answered by the 404.html shell copy — the shell must never be cached (a stale
-# shell points at deleted hashed assets after a deploy: white screen in the Telegram
-# WebView). Vite emits content-hashed bundles into /assets/, but public/ images
-# (aoyume.svg, google.svg, login.jpg, telegram.svg) live there too and are NOT hashed, so
-# the assets rule uses a bounded max-age rather than `immutable`.
+https://ao-mini.sudden-epiphany2.workers.dev/*
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Embedder-Policy: credentialless
+  Cross-Origin-Opener-Policy: same-origin
 
-/miniapp
+https://ao-mini.sudden-epiphany2.workers.dev/assets/assets/translations/fa.json
   Cache-Control: no-cache
-
-/miniapp/
-  Cache-Control: no-cache
-
-/miniapp/index.html
-  Cache-Control: no-cache
-
-/miniapp/404.html
-  Cache-Control: no-cache
-
-/miniapp/assets/*
-  Cache-Control: public, max-age=86400
-
-/miniapp/fonts/*
-  Cache-Control: public, max-age=604800
-
-# vendored Telegram bridge — filename is stable, content changes only on sync:i18n
-/miniapp/telegram-web-app.js.js
-  Cache-Control: public, max-age=86400
-
-# Hardening. COEP/COOP are deliberately NOT set (the Flutter app needed them; this port
-# loads only same-origin assets). X-Robots-Tag keeps the internal mini app unindexed.
-/miniapp/*
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: strict-origin-when-cross-origin
-  X-Robots-Tag: noindex
